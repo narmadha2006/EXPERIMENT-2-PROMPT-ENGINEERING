@@ -64,7 +64,7 @@ Add context and constraints
 Iterate prompts for better results
 
 ## Output
-
+[PROMPT_EX2_REPORT](PROMPTEX2REPORT.pdf)
 
 ## Result
 
